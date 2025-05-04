@@ -1,7 +1,7 @@
 <h1 align="center">
   🚀💻 <br>
   <span style="font-size: 35px;">Davi Valetins de Sousa</span> <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;REACT%2C+TypeScript+JavaScript;Versionamento+com+Git+e+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;React%2C+TypeScript+JavaScript;Versionamento+com+Git+e+GitHub" alt="Typing SVG" />
 </h1>
 
 
