@@ -1,8 +1,9 @@
-# 👋 Olá, eu sou o Davi!
+<h1 align="center">
+  🚀💻 <br>
+  <span style="font-size: 35px;">Davi Valetins de Sousa</span> <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;HTML%2C+CSS%2C+JS%2C+PHP+e+MySQL;Versionamento+com+Git+e+GitHub" alt="Typing SVG" />
+</h1>
 
-🎯 Desenvolvedor **Front-End** apaixonado por transformar ideias em interfaces incríveis.
-
----
 
 ## 💡 Sobre mim
 
@@ -44,15 +45,4 @@ Aqui estão meus links de redes sociais onde você pode conferir mais sobre meu 
 
 ---
 
-## 🎯 Sobre meu trabalho
 
-Eu sou movido pela **paixão por criar** e busco sempre melhorar, seja em **Front-End** com React ou em **Back-End** com PHP e MySQL.
-
----
-
-![coding](https://media.giphy.com/media/l0HlQ7YB5FeGlnChW/giphy.gif)  
-*Gif de codificação para dar aquele toque dinâmico*
-
----
-
-### ✨ *"Código limpo não é escrito por acaso. É feito com intenção."*
