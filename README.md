@@ -11,7 +11,6 @@
 - ⚛️ Amante do ecossistema **React** e da tipagem segura com **TypeScript**
 - 🎨 Valorizo experiências **intuitivas, acessíveis e rápidas**
 - 🔧 Gosto de escrever código **limpo, escalável** e com boas práticas
-- 🧩 Também mergulho no **Back-End** com **PHP + MySQL** quando necessário
 
 ---
 
